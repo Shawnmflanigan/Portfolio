@@ -3,7 +3,7 @@ import ProfileCard from '../components/ProfileCard'
 
 function About() {
   return (
-    <div justifycontent="center">
+    <div>
       <ProfileCard />
     </div>
   )
